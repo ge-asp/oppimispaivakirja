@@ -8,5 +8,5 @@ Kirjoita tähän vastauksesi
 
 | Komento | Kuvaus |
 | --------| ------ |
-| kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
+| git commit -m <Kommentti> | Tekee varsinaisen talletuksen |
 | kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
