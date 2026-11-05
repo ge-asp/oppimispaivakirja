@@ -13,6 +13,8 @@ SSH avaimen luominen tilille aiheutti haasteita. Siihen olisin ehkä kaivannut h
  Kuten edellisessä päiväkirjamerkinnässä, myös näissä sain ystävältä apua käsitteiden selkeyttämiseen, mikäli jokin jäi epäselväksi materiaalista. 
 
  En myöskään nähnyt päiväkirjaohjeita materiaalissa, kuin vasta tehtyäni tehtävät. Päiväkirjan täyttäminen jälkeenpäin oli hhidasta ja olisi tullut varmasti paremmaksi, jos olisin tajunnut täyttää tätä samaan aikaan kun tein tehtäviä. Ohjauduin siis opettajan sivuille missä oli tehtävänanto ja materiaali, enkä huomannut kuin vasta myöhemmin että moodlessa olisi ollut lisäohjeita.
+
+
 ## Osiossa käyttämäni Git-komennot
 
 | Komento | Kuvaus |
