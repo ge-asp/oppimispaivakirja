@@ -1,3 +1,5 @@
 # git-oppimispaivakirja
 
-Tämä on kurssin oppimispäiväkirja.
+# Git-versionhallinta - SOF013AS2A-3003
+## Georgios Aspetakis
+Tämä on oppimispäiväkirja 
